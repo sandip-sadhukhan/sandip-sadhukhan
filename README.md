@@ -59,7 +59,7 @@
 -->
 
 
-<img align="left" alt="Sandippakhanna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandippakhanna&show_icons=true&hide_border=true" />
+[Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandippakhanna&hide=stars)
 
 [twitter]: https://twitter.com/yoursandip
 [instagram]: https://www.instagram.com/sandipweb/

@@ -14,6 +14,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br/>
+
+> Personal Website : https://sandipsadhukhan.tk
 
 ### Languages and Tools:
 
@@ -59,7 +62,7 @@
 -->
 
 
-[Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandippakhanna&hide=stars)
+<img src="https://github-readme-stats.vercel.app/api?username=sandippakhanna&hide=stars" >
 
 [twitter]: https://twitter.com/yoursandip
 [instagram]: https://www.instagram.com/sandipweb/

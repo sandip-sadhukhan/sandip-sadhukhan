@@ -2,9 +2,9 @@
 
 ## I'm a Web Developer, Programmer, Software Developer and a Computer Science Student!
 - 🔭 I’m currently continue my study in Bengal college of Engineering and Technology.
-- 🌱 I’m currently learning Advance Java!
+- 🌱 I’m currently learning Advance MERN Stack!
 - 👯 I’m looking for an internship to gain experience
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore various field in computer science.
 
 ### Connect with me:

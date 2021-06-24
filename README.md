@@ -3,15 +3,15 @@
 ## I'm a Web Developer, Programmer, Software Developer and a Computer Science Student!
 - 🔭 I’m currently continue my study in Bengal college of Engineering and Technology.
 - 🌱 I’m currently learning Advance MERN Stack!
-- 👯 I’m looking for an internship to gain experience
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to explore various field in computer science.
+- 👯 I’m looking for an freelance project to work on.
+- 🥅 2021 Goals: Learn about software industry
+- ⚡ Fun fact: I love to play Piano 🎹.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sandip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sadnip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sandip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br/>

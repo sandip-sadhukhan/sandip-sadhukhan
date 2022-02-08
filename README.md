@@ -1,10 +1,10 @@
-### Hi there, I'm <a href="https://sandipsadhukhan.tk" target="_blank">Sandip Sadhukhan</a> 👋
+### Hi there, I'm Sandip Sadhukhan 👋
 
 ## I'm a Web Developer, Programmer, Software Developer and a Computer Science Student!
 - 🔭 I’m currently continue my study in Bengal college of Engineering and Technology.
-- 🌱 I’m currently learning Advance MERN Stack!
+- 🌱 I’m currently learning Advance React and Django Stack.
 - 👯 I’m looking for an freelance project to work on.
-- 🥅 2021 Goals: Learn about software industry
+- 🥅 2022 Goals: Learn about software industry.
 - ⚡ Fun fact: I love to play Piano 🎹.
 
 ### Connect with me:
@@ -15,8 +15,6 @@
 
 <br />
 <br/>
-
-> Personal Website : https://sandipsadhukhan.tk
 
 ### Languages and Tools:
 

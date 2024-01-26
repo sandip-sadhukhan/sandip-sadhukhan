@@ -8,6 +8,7 @@ Want to contact me? drop a message or mail me at sandip.sendme@gmail.com.
 | Social media | Link |
 | --- | --- |
 | Linkedin | https://www.linkedin.com/in/sandipsadhukhan/ |
+| Twitter | https://twitter.com/sandipthedev |
 | Personal Blog | https://www.sandipsadhukhan.com/ |
 | Resume Link | https://www.sandipsadhukhan.com/resume.pdf |
 | Email | sandip.sendme@gmail.com |

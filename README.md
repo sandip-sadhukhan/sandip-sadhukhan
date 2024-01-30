@@ -3,7 +3,7 @@ Experienced Full Stack Web Developer seeking opportunities with small, dynamic t
 
 My key skills are Html, CSS, JavaScript, Typescript, Bootstrap, React, Next Js, Chakra UI, Django, Django Rest Framework, MySQL, PostgreSQL and Python. I Developed many websites and software. Check out my GitHub account. github.com/sandippakhanna .
 
-Want to contact me? drop a message or mail me at sandip.sendme@gmail.com.
+Want to contact me? Mail me at sandip.sendme@gmail.com.
 
 | Social media | Link |
 | --- | --- |
@@ -12,5 +12,3 @@ Want to contact me? drop a message or mail me at sandip.sendme@gmail.com.
 | Personal Blog | https://www.sandipsadhukhan.com/ |
 | Resume Link | https://www.sandipsadhukhan.com/resume.pdf |
 | Email | sandip.sendme@gmail.com |
-
-# Feature branch changes
